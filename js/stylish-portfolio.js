@@ -31,6 +31,11 @@
     $(".menu-toggle > .fa-bars, .menu-toggle > .fa-times").toggleClass("fa-bars fa-times");
   });
 
+  //function testing(){
+
+
+  //}
+
   // Scroll to top button appear
   $(document).scroll(function() {
     var scrollDistance = $(this).scrollTop();
